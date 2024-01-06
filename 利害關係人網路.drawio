@@ -1,9 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T10:06:02.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.17" etag="WmPWqIGr8F-Eur7n8jwa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T19:08:40.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5nytnz9EaNBz3T6SNoKk" version="22.1.17" type="github">
   <diagram name="第 1 页" id="wp9xp-ZqmDfnT6AioW1U">
-    <mxGraphModel>
+    <mxGraphModel dx="618" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#B3B3B3;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="95.01" y="430" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fillColor=#FFFFFF;strokeColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170.63" y="510.63" width="108.75" height="108.75" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-6" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#1BA1E2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="209.69" y="530" width="30.62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-7" value="消費者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#1BA1E2;" vertex="1" parent="1">
+          <mxGeometry x="195.01" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-10" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#F0D300;strokeColor=#F0D300;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="560" width="30.62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-11" value="&lt;font color=&quot;#f0d300&quot;&gt;平台開發團隊&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#1BA1E2;" vertex="1" parent="1">
+          <mxGeometry x="267.81" y="610" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-16" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#F0D300;strokeColor=#F0D300;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="30.62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-17" value="&lt;font color=&quot;#f0d300&quot;&gt;招聘方&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#1BA1E2;" vertex="1" parent="1">
+          <mxGeometry x="110.31000000000003" y="610" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-20" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#F0D300;strokeColor=#F0D300;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="209.69" y="440.63" width="30.62" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-21" value="&lt;font color=&quot;#f0d300&quot;&gt;支援服務&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#1BA1E2;" vertex="1" parent="1">
+          <mxGeometry x="192.66" y="480.63" width="64.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="UaEMdPy-mgX4DevnKJaX-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195.01000000000002" y="550.63" as="sourcePoint" />
+            <mxPoint x="194.64000000000001" y="480.63" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="490" />
+              <mxPoint x="170" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;strokeColor=#B3B3B3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UaEMdPy-mgX4DevnKJaX-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195.01000000000002" y="550.63" as="sourcePoint" />
+            <mxPoint x="161" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-30" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;提供服務&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="130.62" y="490" width="49.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#B3B3B3;exitX=1;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="UaEMdPy-mgX4DevnKJaX-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="480.63" as="sourcePoint" />
+            <mxPoint x="306" y="550.63" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#B3B3B3;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UaEMdPy-mgX4DevnKJaX-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="480.63" as="sourcePoint" />
+            <mxPoint x="306" y="550.63" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-37" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;維護&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="279.38" y="490" width="49.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;strokeColor=#B3B3B3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UaEMdPy-mgX4DevnKJaX-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="640" as="sourcePoint" />
+            <mxPoint x="290" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;strokeColor=#B3B3B3;" edge="1" parent="1" target="UaEMdPy-mgX4DevnKJaX-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="640" as="sourcePoint" />
+            <mxPoint x="290" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-40" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;維護&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="205.31999999999996" y="650" width="49.69" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
