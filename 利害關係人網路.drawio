@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T17:13:00.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XdC3JFPrIw_KSAmQ_Z-L" version="22.1.17" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-08T17:18:16.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Fz8bdTD80ITIQ8UTF7EP" version="22.1.17" type="github" pages="10">
   <diagram name="第 1 页" id="wp9xp-ZqmDfnT6AioW1U">
-    <mxGraphModel dx="1024" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1118" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="UaEMdPy-mgX4DevnKJaX-6" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#1BA1E2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="209.69" y="530" width="30.62" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UaEMdPy-mgX4DevnKJaX-7" value="消費者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#1BA1E2;" vertex="1" parent="1">
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-7" value="求職者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#1BA1E2;" vertex="1" parent="1">
           <mxGeometry x="195.01" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UaEMdPy-mgX4DevnKJaX-10" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#F0D300;strokeColor=#F0D300;fontColor=#000000;" vertex="1" parent="1">
@@ -77,26 +77,26 @@
         <mxCell id="UaEMdPy-mgX4DevnKJaX-37" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;維護&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="279.38" y="490" width="49.69" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UaEMdPy-mgX4DevnKJaX-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;strokeColor=#B3B3B3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UaEMdPy-mgX4DevnKJaX-40">
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;strokeColor=#B3B3B3;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UaEMdPy-mgX4DevnKJaX-40" target="UaEMdPy-mgX4DevnKJaX-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="640" as="sourcePoint" />
             <mxPoint x="290" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="665" />
+              <mxPoint x="230" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UaEMdPy-mgX4DevnKJaX-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;strokeColor=#B3B3B3;" edge="1" parent="1" target="UaEMdPy-mgX4DevnKJaX-40">
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;strokeColor=#B3B3B3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UaEMdPy-mgX4DevnKJaX-17" target="UaEMdPy-mgX4DevnKJaX-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="640" as="sourcePoint" />
             <mxPoint x="290" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="660" />
+              <mxPoint x="160" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UaEMdPy-mgX4DevnKJaX-40" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;維護&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fillColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="205.31999999999996" y="650" width="49.69" height="30" as="geometry" />
+        <mxCell id="UaEMdPy-mgX4DevnKJaX-40" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;供需&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="180.30999999999997" y="640" width="49.69" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
