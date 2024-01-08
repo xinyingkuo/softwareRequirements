@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T15:40:46.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sxzZaWWGD_bSBX-PGc71" version="22.1.17" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-08T17:13:00.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XdC3JFPrIw_KSAmQ_Z-L" version="22.1.17" type="github" pages="10">
   <diagram name="第 1 页" id="wp9xp-ZqmDfnT6AioW1U">
     <mxGraphModel dx="1024" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1960,10 +1960,34 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7X6im_4s9I3vPMxnc7ty" name="第 10 页">
-    <mxGraphModel dx="352" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1118" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q3LBPl7-eX9MVO2r8F1c-5" value="Web Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="160" width="350" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="q3LBPl7-eX9MVO2r8F1c-6" value="Database Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="360" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="q3LBPl7-eX9MVO2r8F1c-8" value="Web Application" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="205" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q3LBPl7-eX9MVO2r8F1c-4" value="«interface»&lt;br&gt;&lt;b&gt;User Interface&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q3LBPl7-eX9MVO2r8F1c-9" value="Application Logic" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q3LBPl7-eX9MVO2r8F1c-10" value="Management System" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="205" width="280" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="q3LBPl7-eX9MVO2r8F1c-11" value="Job Information DB" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q3LBPl7-eX9MVO2r8F1c-12" value="User Information DB" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="170" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
